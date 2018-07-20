@@ -11,18 +11,18 @@ module.exports = {
     },
    
     "test": {
-        "username": "root",
-        "password": "root",
-        "database": "sequelize_passport",
-        "host": "o677vxfi8ok6exrd.cbetxkdyhwsb.us-east-1.rds.amazonaws.com",
+        "username": "kgmp8opfjhenfehv",
+        "password": "j3ow1yvokh9g9df3",
+        "database": "y3jievdkq4ngg4kf",
+        "host": "wiad5ra41q8129zn.cbetxkdyhwsb.us-east-1.rds.amazonaws.com",
         "dialect": "mysql"
     },
    
     "production": {
-       "username": "sq6vji29as4zey8a",
-       "password": "zkxonv4c7hf9i0zo",
-       "database": "gzpd7dwapcp646gx",
-       "host": "o677vxfi8ok6exrd.cbetxkdyhwsb.us-east-1.rds.amazonaws.com",
+       "username": "kgmp8opfjhenfehv",
+       "password": "j3ow1yvokh9g9df3",
+       "database": "y3jievdkq4ngg4kf",
+       "host": "wiad5ra41q8129zn.cbetxkdyhwsb.us-east-1.rds.amazonaws.com",
        "dialect": "mysql",
        multipleStatements: true
     },
